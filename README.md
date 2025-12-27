@@ -1,92 +1,107 @@
-
-### <div align="center">Full Node Operator & Junior Developer</div>  
-  
-
-<div align="center">Welcome to my GitHub profile! I am a dedicated Full Node Operator and aspiring Junior Developer. Here, you'll find a collection of my projects and contributions in the world of blockchain and software development.</div>  
-  
-
-<div align="center">I am passionate about decentralized technologies and believe in the transformative potential of blockchain. As a Full Node Operator, I actively participate in maintaining and validating the integrity of the blockchain network. By running a full node, I contribute to the decentralization and security of the network, ensuring the transparency and immutability of the blockchain.</div>  
-  
-
-<br/>  
-
-<div align="center"> 
-<h2>💻 My Skill Set</h2>
-<table><tr><td valign="top" width="33%">
-</div>
-
-
-
-<div align="center">  
-<h2>Frontend</h2>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-
-<div align="center">  
-<h2>Backend</h2>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
- 
 <div align="center">
-<h2>DevOps</h2>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+  
+  <!-- Header & Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Node+Operator;Junior+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+  
+  <br/>
+
+  <!-- Intro -->
+  <h3>👋 Welcome to my digital space!</h3>
+  
+  <p align="center">
+    I am a dedicated <b>Full Node Operator</b> and aspiring <b>Junior Developer</b>.<br>
+    Passionate about decentralized technologies, I actively maintain the integrity of blockchain networks<br>
+    while building my skills in modern software development.
+  </p>
+
+  <br/>
+
+  <!-- Socials -->
+  <div align="center">
+    <a href="https://github.com/jordi-stack" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://twitter.com/jordialter" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://gitlab.com/jordi-stack" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    </a>
+    <a href="https://medium.com/@jordidrop" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+  </div>
 </div>
 
-</td></tr></table>  
+<br/>
+<br/>
 
-<br/>  
-
-
-
-<br/>  
-<div align="center">
-    <h1>📊 GitHub Stats:</h1>
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordi-stack&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordi-stack&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-<br/>  
-    <h2>🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=jordi-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
+<!-- Skills Section -->
+<h2 align="center">💻 Tech Stack & Tools</h2>
+<br/>
 
 <div align="center">
-<h2>🌐 Connect with me</h2>
-<a href="https://github.com/jordi-stack" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jordialter" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/jordi-stack" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@jordidrop" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div> 
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <h3>🎨 Frontend</h3>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JS" />
+        <br/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </td>
+      <td align="center" width="300">
+        <h3>🛠 Backend</h3>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <br/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      </td>
+      <td align="center" width="300">
+        <h3>🚀 DevOps & Ops</h3>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+<br/>
 
+<!-- Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jordi-stack&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordi-stack&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordi-stack&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<br/>
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jordi-stack&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
+</div>
+
+<br/>
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
