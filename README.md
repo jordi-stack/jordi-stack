@@ -87,7 +87,9 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordi-stack&theme=tokyonight&hide_border=true" alt="Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordi-stack&theme=tokyonight&hide_border=true" alt="Streak" />
+  </a>
 </div>
 
 <br/>
