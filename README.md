@@ -2,7 +2,7 @@
 
 # Jordi
 
-node operator &middot; onchain builder &middot; indonesia
+node operator across 17 networks. onchain builder with a habit of entering hackathons. i write smart contracts, run distributed infrastructure, and deploy code with a level of confidence that slightly outpaces my full understanding of what's happening under the hood. it ships. it runs. based Indonesia.
 
 <br/>
 
@@ -26,68 +26,54 @@ node operator &middot; onchain builder &middot; indonesia
 
 <h2 align="center">
 <img src="https://img.shields.io/badge/-%E2%96%B2-1a1b4b?style=flat-square" height="20"/>
-&nbsp;FEATURED PROJECTS
+&nbsp;HACKATHON PARTICIPANTS
 </h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
-
-<h3 align="center">somnia-raffle</h3>
-<p align="center">
-  <a href="https://github.com/jordi-stack/somnia-raffle">
-    <img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-1a1b4b?style=for-the-badge&labelColor=0f0c29" alt="Repo"/>
-  </a>
-  <a href="https://somnia-raffle.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=for-the-badge&labelColor=0f0c29" alt="Live"/>
-  </a>
-</p>
-<p align="center"><sub>Onchain raffle on Somnia. No bots, no backend — winner picked automatically via cron subscription.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Sol"/>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" alt="Next"/>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">imperium</h3>
-<p align="center">
-  <a href="https://github.com/jordi-stack/imperium">
-    <img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-1a1b4b?style=for-the-badge&labelColor=0f0c29" alt="Repo"/>
-  </a>
-  <a href="https://imperium-demo.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=for-the-badge&labelColor=0f0c29" alt="Live"/>
-  </a>
-</p>
-<p align="center"><sub>Multi-chain financial CLI. Groq AI + MoonPay MCP + OpenWallet Standard.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Sol"/>
-  <img src="https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white" alt="Groq"/>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">Agora</h3>
-<p align="center">
-  <a href="https://github.com/jordi-stack/Agora">
-    <img src="https://img.shields.io/badge/VIEW_REPO-%E2%86%92-1a1b4b?style=for-the-badge&labelColor=0f0c29" alt="Repo"/>
-  </a>
-  <a href="https://agora-agent.xyz">
-    <img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=for-the-badge&labelColor=0f0c29" alt="Live"/>
-  </a>
-</p>
-<p align="center"><sub>Autonomous AI agent that sells intelligence services via <strong>x402 protocol</strong>, manages its own treasury through Tether WDK on <strong>Plasma</strong> blockchain.</sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JS"/>
-  <img src="https://img.shields.io/badge/x402-000?style=flat-square&logoColor=white" alt="x402"/>
-  <img src="https://img.shields.io/badge/Tether_WDK-50AF95?style=flat-square&logo=tether&logoColor=white" alt="Tether"/>
-</p>
-
-</td>
+  <td><b>somnia-raffle</b></td>
+  <td>Somnia Reactivity Mini Hackathon</td>
+  <td>
+    <a href="https://github.com/jordi-stack/somnia-raffle" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://dorahacks.io/hackathon/somnia-reactivity/buidl" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://somnia-raffle.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
+</tr>
+<tr>
+  <td><b>initia-link</b></td>
+  <td>INITIATE: The Initia Hackathon (Season 1)</td>
+  <td>
+    <a href="https://github.com/jordi-stack/initia-link" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://dorahacks.io/hackathon/initiate/buidl" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://initia-link.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
+</tr>
+<tr>
+  <td><b>agent-challenge</b></td>
+  <td>Nosana Builders Challenge: ElizaOS</td>
+  <td>
+    <a href="https://github.com/jordi-stack/agent-challenge" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://superteam.fun/earn/listing/nosana-builders-elizaos-challenge" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://2vdsgagfth9ifxcsfzfcbmdbisjg6wajlypulxuagpjy.node.k8s.prd.nos.ci/history" target="_blank"><img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
+</tr>
+<tr>
+  <td><b>imperium</b></td>
+  <td>Synthesis Hackathon (Open Track + MoonPay Track)</td>
+  <td>
+    <a href="https://github.com/jordi-stack/imperium" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://synthesis.md/" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://imperium-demo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
+</tr>
+<tr>
+  <td><b>Agora</b></td>
+  <td>Tether Hackathon Galactica: WDK Edition 1</td>
+  <td>
+    <a href="https://github.com/jordi-stack/Agora" target="_blank"><img src="https://img.shields.io/badge/REPO-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://dorahacks.io/hackathon/hackathon-galactica-wdk-2026-01/buidl" target="_blank"><img src="https://img.shields.io/badge/HACKATHON-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a>&nbsp;
+    <a href="https://agora-agent.xyz" target="_blank"><img src="https://img.shields.io/badge/LIVE-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a>
+  </td>
 </tr>
 </table>
 
@@ -140,11 +126,13 @@ node operator &middot; onchain builder &middot; indonesia
 
 **`BLOCKCHAIN`**
 
-![Somnia](https://img.shields.io/badge/Somnia-6C3AED?style=for-the-badge&logoColor=white)
-![Celestia](https://img.shields.io/badge/Celestia-7B2BF9?style=for-the-badge&logo=celestia&logoColor=white)
-![Plasma](https://img.shields.io/badge/Plasma-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=000)
+![Foundry](https://img.shields.io/badge/Foundry-1a1b4b?style=for-the-badge&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logoColor=white)
+![wagmi](https://img.shields.io/badge/wagmi-000?style=for-the-badge&logoColor=white)
+![viem](https://img.shields.io/badge/viem-FFC517?style=for-the-badge&logoColor=000)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
