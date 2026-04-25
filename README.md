@@ -62,7 +62,7 @@ node operator across 17 networks. onchain builder with a habit of entering hacka
   <td><b>imperium</b><br/><img src="https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-CLI_Agents-FFD700?style=flat-square&labelColor=0f0c29"/></td>
   <td>Synthesis Hackathon<br/><sub>Open Wallet Standart + MoonPay Track</sub></td>
   <td align="center"><a href="https://github.com/jordi-stack/imperium" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
-  <td align="center"><a href="https://synthesis.md/" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
+  <td align="center"><a href="https://synthesis.md/projects/#project/imperium-multi-chain-financial-command-center-967d" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://imperium-demo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
