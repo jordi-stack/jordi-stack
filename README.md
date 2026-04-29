@@ -31,50 +31,50 @@ node operator across 17 networks. onchain builder with a habit of entering hacka
 
 <table align="center">
 <tr>
-  <th align="left">Project</th>
-  <th align="left">Hackathon</th>
+  <th align="center">Project</th>
+  <th align="center">Hackathon</th>
   <th align="center">Repo</th>
   <th align="center">Page</th>
   <th align="center">Live</th>
 </tr>
 <tr>
-  <td><b>somnia-raffle</b></td>
-  <td>Somnia Reactivity Mini Hackathon</td>
+  <td align="center"><b>somnia-raffle</b></td>
+  <td align="center">Somnia Reactivity Mini Hackathon</td>
   <td align="center"><a href="https://github.com/jordi-stack/somnia-raffle" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://dorahacks.io/hackathon/somnia-reactivity/buidl" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://somnia-raffle.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
-  <td><b>initia-link</b></td>
-  <td>INITIATE: The Initia Hackathon (Season 1)</td>
+  <td align="center"><b>initia-link</b></td>
+  <td align="center">INITIATE: The Initia Hackathon (Season 1)</td>
   <td align="center"><a href="https://github.com/jordi-stack/initia-link" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://dorahacks.io/hackathon/initiate/buidl" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://initia-link.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
-  <td><b>agent-challenge</b></td>
-  <td>Nosana Builders Challenge: ElizaOS</td>
+  <td align="center"><b>PROBE</b><br/><img src="https://img.shields.io/badge/4th_Place-Nosana_Builders-4169E1?style=flat-square&labelColor=0f0c29"/></td>
+  <td align="center">Nosana Builders Challenge: ElizaOS</td>
   <td align="center"><a href="https://github.com/jordi-stack/agent-challenge" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
-  <td align="center"><a href="https://superteam.fun/earn/listing/nosana-builders-elizaos-challenge" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
+  <td align="center"><a href="https://nosana.com/blog/builders-challenge-4-wrapup/" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://2vdsgagfth9ifxcsfzfcbmdbisjg6wajlypulxuagpjy.node.k8s.prd.nos.ci/history" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
-  <td><b>imperium</b><br/><img src="https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-CLI_Agents-FFD700?style=flat-square&labelColor=0f0c29"/></td>
-  <td>Synthesis Hackathon<br/><sub>Open Wallet Standart + MoonPay Track</sub></td>
+  <td align="center"><b>imperium</b><br/><img src="https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-CLI_Agents-FFD700?style=flat-square&labelColor=0f0c29"/></td>
+  <td align="center">Synthesis Hackathon<br/><sub>Open Wallet Standart + MoonPay Track</sub></td>
   <td align="center"><a href="https://github.com/jordi-stack/imperium" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://synthesis.md/projects/#project/imperium-multi-chain-financial-command-center-967d" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://imperium-demo.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
-  <td><b>Agora</b></td>
-  <td>Tether Hackathon Galactica: WDK Edition 1</td>
+  <td align="center"><b>Agora</b></td>
+  <td align="center">Tether Hackathon Galactica: WDK Edition 1</td>
   <td align="center"><a href="https://github.com/jordi-stack/Agora" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://dorahacks.io/hackathon/hackathon-galactica-wdk-2026-01/buidl" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://agora-agent.xyz" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
 </tr>
 <tr>
-  <td><b>celina-x402</b></td>
-  <td>OKX X Layer Build-X Hackathon</td>
+  <td align="center"><b>celina-x402</b></td>
+  <td align="center">OKX X Layer Build-X Hackathon</td>
   <td align="center"><a href="https://github.com/jordi-stack/celina-x402" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-1a1b4b?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://web3.okx.com/xlayer/build-x-hackathon" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-6C3AED?style=flat-square&labelColor=0f0c29"/></a></td>
   <td align="center"><a href="https://celina-x402.xyz" target="_blank"><img src="https://img.shields.io/badge/-%E2%86%92-006d32?style=flat-square&labelColor=0f0c29"/></a></td>
